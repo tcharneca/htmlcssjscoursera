@@ -1,0 +1,15 @@
+.navbar-header > button{
+	background-color: #8080ff;
+}
+
+#navbar-collapse-items{
+	background-color: #8080ff;
+}
+
+/*.nav.navbar-nav.visible-xs > li{
+	border: 1px solid black;
+}*/
+
+section{
+	background-color: #8080ff;
+}
