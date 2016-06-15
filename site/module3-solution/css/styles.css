@@ -1,15 +1,19 @@
-.navbar-header > button{
-	background-color: #8080ff;
-}
-
-#navbar-collapse-items{
-	background-color: #8080ff;
-}
-
-/*.nav.navbar-nav.visible-xs > li{
-	border: 1px solid black;
-}*/
-
 section{
-	background-color: #8080ff;
+	background-color: #E5E2E1;
+	padding: 1px;
+}
+
+.navbar-header > button{
+	background-color: #E5E2E1;
+}
+
+.container{
+	width: 90%;
+}
+
+
+@media(max-width: 767px){
+	#navbar-collapse-items{
+		background-color: #E5E2E1;
+	}
 }
